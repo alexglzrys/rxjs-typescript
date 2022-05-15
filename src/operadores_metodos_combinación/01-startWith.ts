@@ -2,7 +2,7 @@ import { of } from 'rxjs';
 import { startWith } from 'rxjs/operators'
 
 /**
- * Operador startWidth
+ * Operador startWith
  * Empieza con el argumento que se le mande (envía una primera emisión), y posterior a ello combina el contenido
  * que viaja en la emisión del Observable original
  */

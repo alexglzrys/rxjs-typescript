@@ -2,7 +2,7 @@ import { of } from 'rxjs';
 import { endWith, startWith } from 'rxjs/operators';
 
 /**
- * Operador endWidth
+ * Operador endWith
  * Antes de que se complete el Observable (emisión original), emite una emisión con el valor pasado como argumento,
  * Es decir combina la emisión original con un último valor
  */
